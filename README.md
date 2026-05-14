@@ -1,2 +1,2 @@
 # skills
-技能
+agent 技能集
